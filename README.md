@@ -17,7 +17,7 @@ A Versatile IT professional with 16 Years of industry experience, demonstrated l
 
 ## Professional Experience
 
-| Organization  | Position Held |Role |
+| Organization  | Position Held | Achievement |
 | --- | --- |--- |
 | `HP Inc R&D` | DevOps Architect | |
 
