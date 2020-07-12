@@ -18,8 +18,8 @@ A Versatile IT professional with 16 Years of industry experience, demonstrated l
 ## Professional Experience
 
 | Organization  | Position Held |Role |
-| --- | --- |
-| `HP Inc R&D` | DevOps Architect |
+| --- | --- |--- |
+| `HP Inc R&D` | DevOps Architect | |
 
 
 - 🔭 I’m currently working on DevSecOps
