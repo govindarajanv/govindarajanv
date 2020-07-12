@@ -1,4 +1,8 @@
+![DP](images/profile-pic-1.JPG)
+
 ### About Me
+
+
 
 - 🔭 I’m currently working on DevSecOps
 - 🌱 I’m currently learning Cloud Native Technologies
